@@ -228,7 +228,7 @@ return [
             'text'          => 'search',
             'search'        => true,
             'topnav'        => true,
-            'url'           => url('posts'),
+            'url'           => '/posts',
         ],
         [
             'text'          => 'blog',
